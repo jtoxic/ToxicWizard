@@ -1,6 +1,6 @@
 name="[KODI 17] Toxic Build 1.0"
-url="https://github.com/jtoxic/ToxicWizard.zip"
-img="https://github.com/jtoxic/ToxicWizard/toxicicon.png"
+url="https://github.com/jtoxic/ToxicWizard/blob/master/plugin.program.toxicwizard.zip"
+img="https://github.com/jtoxic/ToxicWizard/blob/master/toxicicon.png"
 description="Developed September 2017 Kodi 17 final"
 version="1.0"
 
