@@ -1,2 +1,0 @@
-# ToxicWizard
-Toxic Builds
